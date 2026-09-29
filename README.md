@@ -9,7 +9,7 @@ A custom editorial / digital-product style website with:
 - Product showcase
 - Responsive layout
 
-Deploy to GitHub Pages. Review and finalize the privacy policy before production use.
+
 
 
 ## v3 changes
